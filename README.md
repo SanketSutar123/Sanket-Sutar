@@ -5,8 +5,8 @@
 I am a fresher Python Developer with a passion for creating innovative solutions in software development, game design, and AI.  
 
 ## 🛠️ My Projects  
-- **[SignMaster](https://github.com/your-repo-link)**: A desktop application that translates sign language to English and vice versa using Python, TensorFlow, and MediaPipe.  
-- **[Pixel Peril](https://github.com/your-repo-link)**: A survival game developed with Pygame, featuring engaging gameplay and objective-based challenges.  
+- **[SignMaster]()**: A desktop application that translates sign language to English and vice versa using Python, TensorFlow, and MediaPipe.  
+- **[Pixel Peril]()**: A survival game developed with Pygame, featuring engaging gameplay and objective-based challenges.  
 
 ## 🌟 Skills  
 - **Programming Languages:** Python, Java, C++, C#, HTML5, CSS.  
