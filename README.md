@@ -23,7 +23,7 @@ I am a fresher Python Developer with a passion for creating innovative solutions
 - IoT and Data Visualization  
 
 ## 🤝 Let’s Connect!  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [Sanket Sutar](https://github.com/your-profile)  
+- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sanketsutar727/))  
+- **GitHub:** [Sanket Sutar]([https://github.com/your-profile](https://github.com/SanketSutar123))  
 
 Feel free to explore my repositories and reach out for collaborations or discussions. Let’s build something amazing together!  
