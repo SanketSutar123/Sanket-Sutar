@@ -14,8 +14,8 @@ I am a fresher Python Developer with a passion for creating innovative solutions
 - **Game Development:** Skilled in creating interactive games using Unreal Engine and Python.  
 
 ## 🎓 Education  
-- Pursuing a **Master of Science in Information Technology**.  
-- Strong academic background with a focus on Python, AI/ML, and Full Stack Development.  
+- Pursuing a **Master of Science in Information Technology** from **Patkar Varde College**.  
+- Completed **Bachelor of Science in Information Technology** from **Patkar Varde College** in 2023, graduating with a CGPA of **9.17/10.0**.    
 
 ## 🌱 Interests  
 - AI and Machine Learning  
